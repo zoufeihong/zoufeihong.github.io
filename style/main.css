@@ -1,0 +1,32 @@
+body{
+	background: url(../images/bg.png) 0 0 repeat;
+	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	color: #434a54;
+}
+h1{
+
+}
+.text-center{
+	text-align: center;
+}
+.article-viewport section.step{
+	position: relative;
+	-webkit-box-shadow: 0 -6px 6px #ccc;
+	-moz-box-shadow: 0 -6px 6px #ccc;
+	box-shadow: 0 -6px 6px #ccc;
+}
+.content{
+	padding: 30px;
+}
+.personal-info{
+	margin: 0 auto;
+}
+.personal-info .photo{
+	margin: 0 auto;
+	width: 120px;
+}
+.personal-info .photo .photo-pic{
+	border-radius: 100%;
+	width: 120px;
+	height: 120px;
+}
